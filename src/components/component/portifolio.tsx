@@ -128,7 +128,7 @@ export function Portifolio() {
                   <br />
                   Graduated in Information Systems, my passion for web development drives me to create efficient solutions that enhance the user experience.
                   <br />
-                  Feel free to browse through my projects and don't hesitate to reach out if you have any questions or if you're interested in working together.
+                  Feel free to browse through my projects and don&apos;t hesitate to reach out if you have any questions or if you&apos;re interested in working together.
                 </p>
               </div>
               <div className="col-span-1 mx-auto hidden sm:flex items-center">
@@ -158,7 +158,7 @@ export function Portifolio() {
               <div>
                 <h3 className="font-bold">Sep 2021 - Nov 2021 · 3 months</h3>
                 <p>Junior Developer - Livelo Marketing ✉</p>
-                <p>I was involved in email development within <Link className="text-sky-600" href="https://www.livelo.com.br/">Livelo's</Link> marketing team, creating advertisements for the company and its partners using technologies such as HTML, CSS, and Javascript. Additionally, I utilized libraries like GULP.JS to enhance the development process and optimize the performance of emails. Deployment of images and emails on AWS servers was also employed to ensure secure and efficient delivery to recipients.</p>
+                <p>I was involved in email development within <Link className="text-sky-600" href="https://www.livelo.com.br/">Livelo&apos;s</Link> marketing team, creating advertisements for the company and its partners using technologies such as HTML, CSS, and Javascript. Additionally, I utilized libraries like GULP.JS to enhance the development process and optimize the performance of emails. Deployment of images and emails on AWS servers was also employed to ensure secure and efficient delivery to recipients.</p>
               </div>
               <div>
                 <h3 className="font-bold">Feb 2021 - Aug 2021 · 7 months</h3>
